@@ -20,40 +20,40 @@
 			<h1 class="gri" id="ai_score">0</h1>
 		</div>
 		<div class="container">	
-				<div class="cell" id="0"></div>
-				<div class="cell" id="1"></div>
-				<div class="cell" id="2"></div>
-				<div class="cell" id="3"></div>
-				<div class="cell" id="4"></div>
-				<div class="cell" id="5"></div>
+				<button class="cell" id="0"></button>
+				<button class="cell" id="1"></button>
+				<button class="cell" id="2"></button>
+				<button class="cell" id="3"></button>
+				<button class="cell" id="4"></button>
+				<button class="cell" id="5"></button>
 		
-				<div  class="cell" id="6"></div>
-				<div  class="cell" id="7"></div>
-				<div  class="cell" id="8"></div>
-				<div  class="cell" id="9"></div>
-				<div  class="cell" id="10"></div>
-				<div  class="cell" id="11"></div>
+				<button  class="cell" id="6"></button>
+				<button  class="cell" id="7"></button>
+				<button  class="cell" id="8"></button>
+				<button  class="cell" id="9"></button>
+				<button  class="cell" id="10"></button>
+				<button  class="cell" id="11"></button>
 			
-				<div  class="cell" id="12"></div>
-				<div  class="cell" id="13"></div>
-				<div  class="cell" id="14"></div>
-				<div  class="cell" id="15"></div>
-				<div  class="cell" id="16"></div>
-				<div  class="cell" id="17"></div>
+				<button  class="cell" id="12"></button>
+				<button  class="cell" id="13"></button>
+				<button  class="cell" id="14"></button>
+				<button  class="cell" id="15"></button>
+				<button  class="cell" id="16"></button>
+				<button  class="cell" id="17"></button>
 			
-				<div  class="cell" id="18"></div>
-				<div  class="cell" id="19"></div>
-				<div  class="cell" id="20"></div>
-				<div  class="cell" id="21"></div>
-				<div  class="cell" id="22"></div>
-				<div  class="cell" id="23"></div>
+				<button  class="cell" id="18"></button>
+				<button  class="cell" id="19"></button>
+				<button  class="cell" id="20"></button>
+				<button  class="cell" id="21"></button>
+				<button  class="cell" id="22"></button>
+				<button  class="cell" id="23"></button>
 			
-				<div  class="cell" id="24"></div>
-				<div  class="cell" id="25"></div>
-				<div  class="cell" id="26"></div>
-				<div  class="cell" id="27"></div>
-				<div  class="cell" id="28"></div>
-				<div  class="cell" id="29"></div>
+				<button  class="cell" id="24"></button>
+				<button  class="cell" id="25"></button>
+				<button  class="cell" id="26"></button>
+				<button  class="cell" id="27"></button>
+				<button  class="cell" id="28"></button>
+				<button  class="cell" id="29"></button>
 			
 		
 		</div>
@@ -65,6 +65,6 @@
 
 		<script src="basePVP.js"></script>
 		<script src="starbg.js" type="module"></script>
-		<script src="audiobg.js"></script>
+		<script src="audiobg.js" type="module"></script>
 	</body>
 </html>
